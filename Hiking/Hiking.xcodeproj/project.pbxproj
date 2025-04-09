@@ -11,6 +11,7 @@
 		E133DC192D8332FC00D0A0A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E133DC182D8332FC00D0A0A0 /* ContentView.swift */; };
 		E133DC1B2D8332FD00D0A0A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E133DC1A2D8332FD00D0A0A0 /* Assets.xcassets */; };
 		E133DC1E2D8332FD00D0A0A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E133DC1D2D8332FD00D0A0A0 /* Preview Assets.xcassets */; };
+		E16130FE2DA6CA3B00BC484F /* HikeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16130FD2DA6CA3B00BC484F /* HikeDetailView.swift */; };
 		E164D6DA2D91649700567FCA /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164D6D92D91649700567FCA /* Hike.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		E133DC182D8332FC00D0A0A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E133DC1A2D8332FD00D0A0A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E133DC1D2D8332FD00D0A0A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E16130FD2DA6CA3B00BC484F /* HikeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetailView.swift; sourceTree = "<group>"; };
 		E164D6D92D91649700567FCA /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -56,6 +58,7 @@
 				E164D6D82D91648B00567FCA /* Models */,
 				E133DC162D8332FC00D0A0A0 /* HikingApp.swift */,
 				E133DC182D8332FC00D0A0A0 /* ContentView.swift */,
+				E16130FD2DA6CA3B00BC484F /* HikeDetailView.swift */,
 				E133DC1A2D8332FD00D0A0A0 /* Assets.xcassets */,
 				E133DC1C2D8332FD00D0A0A0 /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 			files = (
 				E164D6DA2D91649700567FCA /* Hike.swift in Sources */,
 				E133DC192D8332FC00D0A0A0 /* ContentView.swift in Sources */,
+				E16130FE2DA6CA3B00BC484F /* HikeDetailView.swift in Sources */,
 				E133DC172D8332FC00D0A0A0 /* HikingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
